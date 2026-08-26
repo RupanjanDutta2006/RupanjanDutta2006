@@ -1,5 +1,3 @@
-## Contribution Snake
-
 <p align="center">
   <picture>
     <source
