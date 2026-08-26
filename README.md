@@ -1,4 +1,22 @@
-[![RupanjanDutta2006's animated GitSkins profile](https://www.gitskins.com/api/section/hero?username=RupanjanDutta2006&theme=neon&style=aura)](https://www.gitskins.com/showcase/RupanjanDutta2006?skin=studio)
+## Contribution Snake
+
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/RupanjanDutta2006/RupanjanDutta2006/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/RupanjanDutta2006/RupanjanDutta2006/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      alt="GitHub contribution snake animation"
+      src="https://raw.githubusercontent.com/RupanjanDutta2006/RupanjanDutta2006/output/github-contribution-grid-snake.svg"
+    />
+  </picture>
+</p>
+
 ![GitSkins Animated Projects](https://www.gitskins.com/api/section/projects?username=RupanjanDutta2006&theme=github-dark&style=aura&avatar=https%3A%2F%2Fwww.gitskins.com%2Fapi%2Favatar%3Fusername%3DRupanjanDutta2006%26theme%3Dgithub-dark%26family%3Doriginal%26originalVariant%3D1)
 ![GitSkins Animated Heatmap](https://www.gitskins.com/api/section/heatmap?username=RupanjanDutta2006&theme=github-dark&style=aura)
 # 💫 About Me:
