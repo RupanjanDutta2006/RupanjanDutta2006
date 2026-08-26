@@ -1,4 +1,5 @@
 [![RupanjanDutta2006's animated GitSkins profile](https://www.gitskins.com/api/section/hero?username=RupanjanDutta2006&theme=neon&style=aura)](https://www.gitskins.com/showcase/RupanjanDutta2006?skin=studio)
+![GitSkins Animated Projects](https://www.gitskins.com/api/section/projects?username=RupanjanDutta2006&theme=github-dark&style=aura&avatar=https%3A%2F%2Fwww.gitskins.com%2Fapi%2Favatar%3Fusername%3DRupanjanDutta2006%26theme%3Dgithub-dark%26family%3Doriginal%26originalVariant%3D1)
 ![GitSkins Animated Heatmap](https://www.gitskins.com/api/section/heatmap?username=RupanjanDutta2006&theme=github-dark&style=aura)
 # 💫 About Me:
 Second-Year CSE Student | AI and Full-Stack Developer | Building practical solutions for real-world problems|<br>
@@ -12,7 +13,7 @@ Second-Year CSE Student | AI and Full-Stack Developer | Building practical solut
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=RupanjanDutta2006&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=RupanjanDutta2006&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=RupanjanDutta2006&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![GitSkins Animated Stack](https://www.gitskins.com/api/section/stack?username=RupanjanDutta2006&theme=github-dark&style=aura&avatar=https%3A%2F%2Fwww.gitskins.com%2Fapi%2Favatar%3Fusername%3DRupanjanDutta2006%26theme%3Dgithub-dark%26family%3Doriginal%26originalVariant%3D1)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=RupanjanDutta2006&theme=transparent&no-frame=false&no-bg=false&margin-w=4)
@@ -24,6 +25,7 @@ Second-Year CSE Student | AI and Full-Stack Developer | Building practical solut
 ![](https://github-contributor-stats.vercel.app/api?username=RupanjanDutta2006&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+![GitSkins Animated Highlights](https://www.gitskins.com/api/section/highlights?username=RupanjanDutta2006&theme=github-dark&style=aura&avatar=https%3A%2F%2Fwww.gitskins.com%2Fapi%2Favatar%3Fusername%3DRupanjanDutta2006%26theme%3Dgithub-dark%26family%3Doriginal%26originalVariant%3D1)
 [![](https://komarev.com/ghpvc/?username=RupanjanDutta2006&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
